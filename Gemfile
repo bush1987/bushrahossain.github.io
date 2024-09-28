@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
-  gem "jekyll", "~> 4.2.0" # You can specify another version if required
+  gem "jekyll", "~> 4.3.4" # You can specify another version if required
   gem "bundler", "~> 2.2"
 end
 
